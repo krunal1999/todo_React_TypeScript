@@ -4,7 +4,7 @@ import { useSearchParams } from "react-router-dom";
 const Todos = () => {
   const { todos, toggleToDoAsCompleted, handleDelete } = useTodos();
 
-  let [searchParams, setSearchParams] = useSearchParams();
+  let [searchParams] = useSearchParams();
   let todosData = searchParams.get("todos");
 
   let filterData = todos;
