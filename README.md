@@ -1,5 +1,5 @@
 # Try App
-https://vercel.com/krunal1999s-projects/todo-react-type-script
+https://todo-react-type-script-ds8dlvj26-krunal1999s-projects.vercel.app/
 
 
 # React + TypeScript + Vite
